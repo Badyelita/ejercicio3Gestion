@@ -6,6 +6,8 @@ public class ColorRandom : MonoBehaviour
 {
 
     //esto es el primer commit en local
+
+    //este es el segundo commit
     public SpriteRenderer sr;
 
     void Start()
